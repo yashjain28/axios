@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,axios",
+    "logging_enabled": "false",
+    "name": "Test_axios",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "Test_axios.js"
+}
